@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/008-Search-Algorithms.iml" filepath="$PROJECT_DIR$/008-Search-Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001-Linear-Search/008-Search-Algorithms.iml" filepath="$PROJECT_DIR$/001-Linear-Search/008-Search-Algorithms.iml" />
     </modules>
   </component>
 </project>
